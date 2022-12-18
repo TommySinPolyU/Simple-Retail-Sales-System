@@ -1,4 +1,4 @@
-# Simple-Retail-Sales-System
+# Simple Retail Sales System
 
 This is a project originally developed for School Assignment which about Software Project Management\
 Now, some relevant source codes are open for reference
