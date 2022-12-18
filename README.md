@@ -17,14 +17,14 @@ Programming Language: C#\
 Development Device OS: Windows 10
 
 ## ScreenShots
-<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSSIEM.png" width="400">
-<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSSIEM_Search.png" width="400">
-<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSSIEM_Update.png" width="400">
-<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSSIEM_UserManagement.png" width="400">
-<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSS_Kiosk_Customer.png" width="400">
-<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSS_Kiosk_Customer_AdSearch.png" width="400">
-<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSS_Kiosk_Customer_SearchResult.png" width="400">
-<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSS_Online.png" width="400">
-<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSS_Online_Responsive.png" width="400">
+<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSSIEM.png" width="650">
+<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSSIEM_Search.png" width="650">
+<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSSIEM_Update.png" width="650">
+<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSSIEM_UserManagement.png" width="650">
+<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSS_Kiosk_Customer.png" width="650">
+<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSS_Kiosk_Customer_AdSearch.png" width="650">
+<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSS_Kiosk_Customer_SearchResult.png" width="650">
+<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSS_Online.png" width="650">
+<img src="https://github.com/TommySinPolyU/Simple-Retail-Sales-System/blob/main/screenshots/RSS_Online_Responsive.png" width="650">
 
 Copyright © 2019 Sin Siu Wa,Tommy All rights reserved
