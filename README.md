@@ -1,7 +1,7 @@
 # Simple Retail Sales System
 
 This is a project originally developed for School Assignment which about Software Project Management\
-Now, some relevant source codes are open for reference
+Now, some relevant source codes are open for reference\
 **This project is now closed, and I will no longer develop and maintain this project.
 
 Demo Download Link (Windows Only):\
