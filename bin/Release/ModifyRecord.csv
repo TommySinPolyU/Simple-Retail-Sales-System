@@ -1,0 +1,6 @@
+﻿ModifyNum,ItemCode,StaffNumber,BShelfNumber,AShelfNumber,BLocation,ALocation,ModifyDate
+0,MS0000001,1802001,N/A,N/A,Temp Warehouse,Central Warehouse,6/7/2018 6:38:02
+1,MS0000001,1801002,Shelf-1B,Shelf-1A,N/A,N/A,6/7/2018 9:55:04
+2,MS0000002,1801002,Shelf-3A,Shelf-1A,Central Warehouse,Temp Warehouse,6/7/2018 9:55:33
+3,MS0000001,1802001,N/A,N/A,Central Warehouse,Temp Warehouse,8/7/2018 17:45:13
+4,MS0000001,1802001,N/A,N/A,Temp Warehouse,Central Warehouse,8/7/2018 18:16:28

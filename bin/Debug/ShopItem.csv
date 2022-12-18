@@ -1,0 +1,7 @@
+﻿ItemCode,Location,ShelfNum,Quantity,onPromotion
+MS0000001,Central Warehouse,Shelf-1A,20,False
+MS0000002,Temp Warehouse,Shelf-1A,200,True
+SN0000001,Central Warehouse,Shelf-1A,500,False
+SN0000002,Central Warehouse,Shelf-1B,300,False
+SN0000003,Central Warehouse,Shelf-2B,250,False
+SN0000003,Temp Warehouse,Shelf-2B,5,False

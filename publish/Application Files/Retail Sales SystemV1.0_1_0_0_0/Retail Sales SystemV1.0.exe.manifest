@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Retail Sales SystemV1.0.exe" version="1.0.0.0" publicKeyToken="1faee23270cda46b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Retail Sales SystemV1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Retail Sales SystemV1.0.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 資訊清單選項
+         如需變更 Windows 使用者帳戶控制層級，
+         請以下列其中一個項目取代 requestedExecutionLevel 節點。
+
+       <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+       <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+       <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        如需利用回溯相容性的檔案及登錄模擬，
+        請刪除 requestedExecutionLevel 節點。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Retail Sales SystemV1.0.exe" size="261600">
+      <assemblyIdentity name="Retail Sales SystemV1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LITyZaD3dpvcd91DZwf3PwuCMPgcZhcBTg1U3X4Bwxg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Retail Sales SystemV1.0.exe.config" size="534">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oM8EvATQsVch2MxAqj9lT2QYQc1YHjIKYAAod1lX/2I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-36FK38D\Tommy" issuerKeyHash="9e8ea1247ba9888ae817ee2fee3afbca5aabca6e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>UaV7xo4B6tqxKUuSnX3hLnDU8u9mWt8WopLokFLRYt0=</DigestValue></Reference></SignedInfo><SignatureValue>cy9cll/7MjNN1sg04EQw0bEs/Xfd/8o2FxNPTmYSZy2WQOeVXQ8ZA8NbRMTAkXCJdhP9VZYNXmUVjWa4eFLMmVDMH79ueoWImb81zZz9TeG3scLSZ+Ux/S3CynTq+JCdEaRvynbKbqZnY7zuDFVuLfeMG2r+ry2MipHhLP1ixD8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wz2zKRJnKahtXpISaoPBSQ8OKeE/WQsZKZSA4SNEvOpcVDq2VhZpXU4WKRTjfTDSIJu7BH2sXfII72VImWynOzGAT6EkCCmmxVRcgssA5BIvjCNwQ38lCSeofSwLS2+FgEOZfwbsjZBp7EYWIl6vrgmdNdpDuF3bKUAq9NwFeJU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dd62d15290e892a216df5a66eff2d4702ee17d9d924b29b1daea018ec67ba551" Description="" Url=""><as:assemblyIdentity name="Retail Sales SystemV1.0.exe" version="1.0.0.0" publicKeyToken="1faee23270cda46b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-36FK38D\Tommy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>YQ77gDwpnYK8OofSd7NldlOrfYljOx4qwHyxl8jDYkQ=</DigestValue></Reference></SignedInfo><SignatureValue>ThN1KH+056WXcswKvzv7/781gM1VSAjGUPZ6G4B262kBdWxgSKeV6NZy8Mt4OEi8eXNGxP0nq6H2XcUSBQKw4spXC5eugBoCgl6aDmYECcofntjaHABrJwRwAymlkbIGyNElzIaKitY2gFcVeClInIMa7AjD5phO3cP1yjhZWc0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wz2zKRJnKahtXpISaoPBSQ8OKeE/WQsZKZSA4SNEvOpcVDq2VhZpXU4WKRTjfTDSIJu7BH2sXfII72VImWynOzGAT6EkCCmmxVRcgssA5BIvjCNwQ38lCSeofSwLS2+FgEOZfwbsjZBp7EYWIl6vrgmdNdpDuF3bKUAq9NwFeJU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQdC2N/QPsq4RJxQAEi+1biDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADMANgBGAEsAMwA4AEQAXABUAG8AbQBtAHkwHhcNMTgwNzA4MDg0NDM2WhcNMTkwNzA4MTQ0NDM2WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADMANgBGAEsAMwA4AEQAXABUAG8AbQBtAHkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMM9sykSZymobV6SEmqDwUkPDinhP1kLGSmUgOEjRLzqXFQ6tlYWaV1OFikU430w0iCbuwR9rF3yCO9lSJlspzsxgE+hJAgppsVUXILLAOQSL4wjcEN/JQknqH0sC0tvhYBDmX8G7I2QaexGFiJer64JnTXaQ7hd2ylAKvTcBXiVAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAUuV+XMvetwUoejuj+VRYtO7drfm86zPKGsAKNm1PGLPzqJg8gZn5jd/J13KeAvm2kKqIKnTh794XHWnHfrsf9KvKq/ATMTBN26ahKV+gQJ4uJ4LNJulj1w3S8dMPcj8Lc73i2EsVd8t+XY4xIcPCoatXtTPsMJZkPnsItF5V/dc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

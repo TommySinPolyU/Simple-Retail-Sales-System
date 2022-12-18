@@ -1,0 +1,136 @@
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe.config
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.pdb
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csprojResolveAssemblyReference.cache
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSIEM.resources
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.Properties.Resources.resources
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.GenerateResource.Cache
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.pdb
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe.config
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.pdb
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csprojAssemblyReference.cache
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSIEM.resources
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.Properties.Resources.resources
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.GenerateResource.cache
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.CoreCompileInputs.cache
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.pdb
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.SearchFunction.resources
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryandMaintenance.resources
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UserMaintenance.resources
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe.config
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.pdb
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csprojResolveAssemblyReference.cache
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryandMaintenance.resources
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.MainMenu.resources
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSIEM.resources
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.Properties.Resources.resources
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.SearchFunction.resources
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UserMaintenance.resources
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.GenerateResource.Cache
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe
+C:\Users\cwitstudent.CWIT-316A-D01\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.pdb
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryandMaintenance.resources
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.SearchFunction.resources
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UserMaintenance.resources
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe.config
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.pdb
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csprojAssemblyReference.cache
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryandMaintenance.resources
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.MainMenu.resources
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSIEM.resources
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.Properties.Resources.resources
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.SearchFunction.resources
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UserMaintenance.resources
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.GenerateResource.cache
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.CoreCompileInputs.cache
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe
+D:\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.pdb
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe.config
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.pdb
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.pdb
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csprojResolveAssemblyReference.cache
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryandMaintenance.resources
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.MainMenu.resources
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSIEM.resources
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.Properties.Resources.resources
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.SearchFunction.resources
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UpdateFunction.resources
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UserMaintenance.resources
+C:\Users\cwitstudent.CWIT-316A-D02\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.GenerateResource.Cache
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UpdateFunction.resources
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.IEMMainMenu.resources
+C:\Users\170025428\Desktop\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSMainMenu.resources
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.IEMMainMenu.resources
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSMainMenu.resources
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UpdateFunction.resources
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.CusDetailSearch.resources
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryforCustomer.resources
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe.manifest
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.application
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe.manifest
+D:\Folder_Tommy\IVEassignment\Sem3\SDP\RSS\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.application
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe.config
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.pdb
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe.manifest
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.application
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.pdb
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csprojResolveAssemblyReference.cache
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.CusDetailSearch.resources
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryandMaintenance.resources
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.IEMMainMenu.resources
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryforCustomer.resources
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSIEM.resources
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.Properties.Resources.resources
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSMainMenu.resources
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.SearchFunction.resources
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UpdateFunction.resources
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UserMaintenance.resources
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.GenerateResource.Cache
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe.manifest
+C:\Users\170025428\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.application
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe.config
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe.manifest
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.application
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.exe
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\bin\Debug\Retail Sales SystemV1.0.pdb
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csprojAssemblyReference.cache
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.CusDetailSearch.resources
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryandMaintenance.resources
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.IEMMainMenu.resources
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryforCustomer.resources
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSIEM.resources
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.Properties.Resources.resources
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSMainMenu.resources
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.SearchFunction.resources
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UpdateFunction.resources
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UserMaintenance.resources
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.GenerateResource.cache
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.CoreCompileInputs.cache
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe.manifest
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.application
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe
+D:\Desktop\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.pdb
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csprojAssemblyReference.cache
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.CusDetailSearch.resources
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryandMaintenance.resources
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.IEMMainMenu.resources
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.ItemEnquiryforCustomer.resources
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSIEM.resources
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.Properties.Resources.resources
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.RSSMainMenu.resources
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.SearchFunction.resources
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UpdateFunction.resources
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail_Sales_SystemV1._0.UserMaintenance.resources
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.GenerateResource.cache
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.csproj.CoreCompileInputs.cache
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.exe
+E:\Desktop\Folder_Tommy\IVE\Retail Sales SystemV1.0\Retail Sales SystemV1.0\obj\Debug\Retail Sales SystemV1.0.pdb
